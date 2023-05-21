@@ -3,7 +3,9 @@
 
 En este repositorio se encuentran los ejercicios del sprint 1 del módulo 3 de las alumnas Estibaliz y Lorena del bootcamp de Análisis de datos.
 
-En él hay dos carpetas:
+En él hay tres carpetas:
+
+- datos > donde se encuentran todos los archivos csv o pickle con los que se ha trabajado, así como los creados por nosotras a lo largo del flujo de trabajo de este tercer módulo.
 
 - Regresión Lineal > donde aparecen contenidos todos los ejercicios realizados durante las sesiones en las que se ha trabajado con regresión lineal:
   
